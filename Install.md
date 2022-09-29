@@ -23,3 +23,10 @@ After the update is complete, you can install git.
 $ sudo apt install git
 ```
 
+To confirm taht you istalled Git successfully, run the following command and verify that you receive revelant output.
+
+```
+$ git --version
+```
+> Output
+> git version 2.25.1
